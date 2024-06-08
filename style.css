@@ -1,0 +1,28 @@
+body {
+    background-color: #344055;
+    color: #CFB3CD;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav:link {
+    color: #5DB7DE;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.nav:visited {
+    color: #DFC2F2;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+.nav:hover {
+    text-decoration: underline;
+}
+
+.nav:active {
+    color: #DFC2F2;
+}
