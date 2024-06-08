@@ -7,6 +7,25 @@ h1 {
     text-align: center;
 }
 
+.navbar {
+    display: block;
+    margin: 25px auto 5px auto;
+    padding: 15px;
+    width: 80%;
+    text-align: center;
+    height: 27px;
+}
+
+.nav {
+    border: #829CBC solid 2px;
+    border-radius: 20%;
+    padding: 1%;
+    margin: 1%;
+    font-size: large;
+    transition: 150ms;
+    transition-timing-function: ease-in;
+}
+
 .nav:link {
     color: #5DB7DE;
     background-color: transparent;
@@ -14,13 +33,11 @@ h1 {
 }
 
 .nav:visited {
-    color: #DFC2F2;
-    background-color: transparent;
-    text-decoration: none;
+    color: #5DB7DE;
 }
   
 .nav:hover {
-    text-decoration: underline;
+    font-size: 20px;
 }
 
 .nav:active {
