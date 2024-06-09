@@ -1,9 +1,6 @@
 body {
     background-color: #344055;
     color: #CFB3CD;
-}
-
-h1 {
     text-align: center;
 }
 
@@ -38,6 +35,7 @@ h1 {
   
 .nav:hover {
     font-size: 20px;
+    /*padding: 1.5%;*/
 }
 
 .nav:active {
