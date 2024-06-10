@@ -4,11 +4,28 @@ body {
     text-align: center;
 }
 
+p {
+    font-size: larger;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    text-align: left;
+}
+
+.info {
+    padding: 5px;
+}
+
+.map {
+    width: 90%;
+    border-radius: 2%;
+}
+
 .navbar {
     display: block;
     margin: 25px auto 5px auto;
     padding: 15px;
-    width: 80%;
+    width: 95%;
     text-align: center;
     height: 27px;
 }
@@ -34,8 +51,7 @@ body {
 }
   
 .nav:hover {
-    font-size: 20px;
-    /*padding: 1.5%;*/
+    padding: 1.35%;
 }
 
 .nav:active {
