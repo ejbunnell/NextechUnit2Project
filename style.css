@@ -3,7 +3,7 @@ body {
     color: #CFB3CD;
     text-align: center;
 }
-/*  */
+
 p {
     font-size: larger;
     width: 80%;
@@ -17,7 +17,7 @@ p {
 }
 
 .map {
-    width: 60%;
+    width: 30%;
     border-radius: 2%;
 }
 
